@@ -1,0 +1,44 @@
+#par1.highlight {
+    color: green;
+  }
+
+  .bold {
+    font-size: 20px;
+    color: black;
+  }
+  h1{
+    font-size: 70px;
+    font-family: 'Merriweather', serif;
+    color: green;
+  }
+
+  .highlight {
+    color: blue;
+  }
+
+  .und {
+    text-decoration: underline;
+  }
+
+  .highlight.und {
+    font-size: 8px;
+  }
+
+  a {
+    color: red;
+  }
+
+  header {
+    text-align: center;
+    margin: 0px
+    background-color blue;
+  }
+
+  img {
+    width: 300px;
+    height: auto; 
+  }
+
+  #par1 {
+    color: green;
+  }
