@@ -1,7 +1,7 @@
-#par1.highlight {
-    color: green;
+  body {
+    background-color: grey;
   }
-
+  
   .bold {
     font-size: 20px;
     color: black;
@@ -16,18 +16,6 @@
     color: blue;
   }
 
-  .und {
-    text-decoration: underline;
-  }
-
-  .highlight.und {
-    font-size: 8px;
-  }
-
-  a {
-    color: red;
-  }
-
   header {
     text-align: center;
     margin: 0px
@@ -38,11 +26,15 @@
     height: auto; 
   }
 
-  #par1 {
+  #par1, #par2, #par3 {
     color: black;
     font-family: 'Source Sans Pro', sans-serif;
   }
 
   .navbar-brand {
     font-family: 'Merriweather', serif;
+  }
+  
+  .box-color {
+    color: white;
   }
