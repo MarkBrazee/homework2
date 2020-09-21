@@ -9,7 +9,7 @@
   h1{
     font-size: 70px;
     font-family: 'Merriweather', serif;
-    color: green;
+    color: blue;
   }
 
   .highlight {
@@ -31,7 +31,6 @@
   header {
     text-align: center;
     margin: 0px
-    background-color blue;
   }
 
   img {
@@ -40,5 +39,10 @@
   }
 
   #par1 {
-    color: green;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+
+  .navbar-brand {
+    font-family: 'Merriweather', serif;
   }
