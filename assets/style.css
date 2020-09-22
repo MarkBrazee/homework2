@@ -33,8 +33,17 @@
 
   .navbar-brand {
     font-family: 'Merriweather', serif;
+    color:blue;
   }
   
   .box-color {
     color: white;
+  }
+
+  .footer-color1 {
+    color: blue;
+  }
+
+  .footer-color2 {
+    color: black;
   }
