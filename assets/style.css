@@ -22,7 +22,7 @@
     color: black;
   }
   h1{
-    font-size: 70px;
+    font-size: 150px;
     font-family: 'Merriweather', serif;
     color: blue;
   }
@@ -52,7 +52,7 @@
   }
   
   .box-color {
-    color: white;
+    background-color: white;
   }
 
   .footer-color1 {
@@ -61,4 +61,12 @@
 
   .footer-color2 {
     color: black;
+  }
+
+  .main {
+    padding: 100px;
+  }
+
+  .potfolioBox {
+    width: 350px; padding: 20px; color: gray;
   }
